@@ -3,7 +3,6 @@
 ## Attributes:
 - name (string)
 - job_title (string)
-- pay_check_amount (float)
 - is_hourly(boolean)
 - hours_worked (array)
 - rate

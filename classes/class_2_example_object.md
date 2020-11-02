@@ -1,13 +1,13 @@
-### Object: Nalgene
+### Object: FirstEmployee
 
-##Attributes:
+## Attributes:
 - name: "Joe Bob"
 - job_title: "Server"
 - is_hourly: false
 - hours_worked: [5,8,4,6,7]
 - rate: 8.5
 
-##Methods:
+## Methods:
 - change_job_title: job_title = "Cook"
 - change_hourly: is_hourly = true
 - change_name: "Joe Smith"

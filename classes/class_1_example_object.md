@@ -1,13 +1,13 @@
-### Object: Nalgene
+### Object: DinnerItem
 
-##Attributes:
+## Attributes:
 - name: "Grilled Chicken with Rice and Veggies"
 - calories: 450
 - ingredients: ["Chicken", "Brown Rice", "Broccoli", "Carrots"]
 - is_vegan: false
 - price: 13.99
 
-##Methods:
+## Methods:
 - add_ingredient: ingredients << "Asparagus"
 - make_vegan: is_vegan = true
 - increase_price(2.00): price = price + 2.00
