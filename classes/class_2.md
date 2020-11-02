@@ -5,7 +5,7 @@
 - job_title (string)
 - is_hourly(boolean)
 - hours_worked (array)
-- rate
+- rate (float)
 
 ## Methods:
 - change_job_title (changes the job title of the employee)
