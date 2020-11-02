@@ -1,0 +1,14 @@
+1. `food = "Reeses"`
+2. `is_delicious = true`
+3. 'food = "Snickers"'
+4. `num2 = 2`
+5. `num7 = 7`
+6. `quotient = num7 / num2`
+7. 'songs = ["Holy","Forever After All","Watermelon Sugar"]'
+8. google
+9. `songs.shift`
+10.
+```
+puts "How many characters are in the food string?"
+puts food.length
+```
